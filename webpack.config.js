@@ -17,7 +17,7 @@ module.exports = {
       'angular2-meteor/mongo_cursor_differ': 'angular2-meteor/mongo_cursor_differ',
       'angular2/core': 'angular2/core',
       'angular2/common': 'angular2/common',
-      'angular2/bootstrap': 'angular2/bootstrap',
+      'angular2/bootstrap': 'angular2/platform/browser',
       'angular2/src/core/change_detection/change_detection': 'angular2/src/core/change_detection/change_detection'
     }
   ],
